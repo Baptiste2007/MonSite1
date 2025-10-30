@@ -2086,3 +2086,45 @@ a#back-to-top.show {
 .food-menu-item h3 {
     margin-top: 0;
 }
+
+div#bandeau {
+	width:1500px;
+	height:200px;
+text-align : center;
+font-size: 50px;
+background-color: aqua;
+}
+
+div#contenu {
+	width:900px;
+	height:700px;
+	float:left;
+	text-align : center;
+	background-color: blanchedalmond;
+	
+}
+div#menu {
+	float:left;
+	width:200px;
+	height:700px;
+	background-color:aqua;
+		div#menuhaut {
+	width:200px;
+	height:350px;
+	background-color:aqua;
+	}
+div#menubas {
+	width:200px;
+	height:350px;
+	background-color:aqua;
+	}
+
+}
+
+.sa {
+	font-size: 20PX;
+}
+
+.pa {
+	font-size: 30px;
+}
