@@ -372,7 +372,7 @@ body {
     color: #fff;
     border-color: transparent #F22613;
     background-color: #F22613;
-    !important
+    
 }
 
 .btn-primary:hover,
@@ -2229,34 +2229,35 @@ div#bandeau {
     height: 200px;
     text-align: center;
     font-size: 50px;
-    background-color: grey
+    background-color: rgb(252, 2, 2)
 }
 
 div#contenu {
     width: 950px;
-    height: 775px;
+    height: 700px;
     float: left;
     text-align: center;
-    background-color: gray;
+    background-color: rgb(0, 0, 0);
 
+    
 }
 
 div#menu {
     float: left;
     width: 200px;
     height: 700px;
-    background-color:blue;
+    background-color:rgb(255, 0, 0);
 
     background-color div#menuhaut {
         width: 200px;
         height: 350px;
-        background-color: blue;
+        background-color: rgb(255, 0, 0);
     }
 
     div#menubas {
         width: 200px;
         height: 350px;
-        background-color:blue;
+        background-color:rgb(255, 0, 0);
     }
 
 
@@ -2267,9 +2268,18 @@ div#menu {
 }
 
 .pa {
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .t {
     font-size: 50px;
+}
+
+.ro{
+ font-size: 25px;
+ color: #ff0202;
+    }
+
+    .bl {
+      color: #ffffff;     
 }
